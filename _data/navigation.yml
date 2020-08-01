@@ -1,12 +1,12 @@
-- title: Start
+- title: Главная
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Учителю
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: Ученикам
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: Родителям
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Методическая копилка
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,17 +59,10 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
+- title: Поиск
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: Контакты
   url: "/contact/"
   side: right
