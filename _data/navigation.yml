@@ -3,10 +3,28 @@
   side: left
 
 - title: Учителю
-  url: "/getting-started/"
+  url: "/teacher/rp/"
   side: left
+  dropdown:
+  - title: "Рабочие программы"
+    url: "/teacher/rp/"
 
 - title: Ученикам
+  url: "/pupil/"
+  side: left
+  dropdown:
+  - title: "Как подготоваить домашнее задание"
+    url: "/pupil/howto/"
+  - title: "Транслитерация"
+    url: "/pupil/transliteration/"
+  - title: "Лексика по темам"
+    url: "/pupil/lexis/"
+  - title: "Словообозование"
+    url: "/pupil/"
+  - title: "Фразы для сочинений эссе"
+    url: "/pupil/phrases/"
+
+- title: Дизайн
   url: "/design/"
   side: left
   dropdown:
