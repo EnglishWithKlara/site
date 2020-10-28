@@ -4,7 +4,7 @@ show_meta: false
 title: "Лексика по темам"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/pupil/Лексика_по_темам"
+permalink: "/pupil/Лексика_по_темам/"
 ---
 [Лексика по теме «Внешность»](http://study-english.info/vocabulary-appearance.php)  
 [Лексика по теме «Город»](http://study-english.info/vocabulary-town.php)  
