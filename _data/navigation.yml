@@ -16,13 +16,13 @@
   - title: "Как подготоваить домашнее задание"
     url: "/pupil/howto/"
   - title: "Транслитерация"
-    url: "/pupil/transliteration/"
+    url: "/pupil/transliteration"
   - title: "Лексика по темам"
-    url: "/pupil/lexis/"
+    url: "/pupil/lexis"
   - title: "Словообозование"
     url: "/pupil/"
   - title: "Фразы для сочинений эссе"
-    url: "/pupil/phrases/"
+    url: "/pupil/фразы"
 
 - title: Дизайн
   url: "/design/"
