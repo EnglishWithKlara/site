@@ -2,24 +2,44 @@
 layout: page
 show_meta: false
 title: "Рабочие программы"
-header:
-   image_fullwidth: "header_homepage_13.jpg"
-permalink: "/teacher/rp/"
+header: no
+permalink: "/teacher/rp"
 ---
-Формирование элементарной коммуникативной компетенции младшего школьника на доступном для него уровне в основных видах речевой деятельности – аудирование, говорение, чтение и письмо.
-<br/>
-<a class="radius button big mymargin" href="{{ site.url }}/download/rp/РП_2_кл.docx">РП 2 класс</a>
-<hr/>
-Данная программа предназначена для обучения младших школьников английскому языку в образовательных учреждениях начального общего образования на основе линии УМК «Мир английского языка» авторов Кузовлева В.П., Лапа Н.М., Перегудовой Э.Ш. и др.издательства «Просвещение».
-<br/>
-<a class="radius button big mymargin" href="{{ site.url }}/download/rp/РП_2_кл.docx">РП 3 класс</a>
+### 2 класс
+<a href="{{ site.url }}/download/rp/РП 2 кл.docx">Скачать документ</a>
 <hr/>
 
-<a class="radius button big mymargin" href="{{ site.url }}/download/rp/РП_2_кл.docx">РП 4 класс</a>
+### 3 класс
+<a href="{{ site.url }}/download/rp/РП 3 кл.docx">Скачать документ</a>
+<hr/>
 
-<a class="radius button big mymargin" href="{{ site.url }}/download/rp/РП_2_кл.docx">РП 5 класс</a>
+### 4 класс
+<a href="{{ site.url }}/download/rp/РП 4 кл.docx">Скачать документ</a>
+<hr/>
 
-<a class="radius button big mymargin" href="{{ site.url }}/download/rp/РП_2_кл.docx">РП 6 класс</a>
+### 5 класс
+<a href="{{ site.url }}/download/rp/РП 5 кл.docx">Скачать документ</a>
+<hr/>
 
+### 6 класс
+<a href="{{ site.url }}/download/rp/РП 6 кл.docx">Скачать документ</a>
+<hr/>
 
+### 7 класс
+<a href="{{ site.url }}/download/rp/РП 7 кл.docx">Скачать документ</a>
+<hr/>
 
+### 8 класс
+<a href="{{ site.url }}/download/rp/РП 8 кл.docx">Скачать документ</a>
+<hr/>
+
+### 9 класс
+<a href="{{ site.url }}/download/rp/РП 9 кл.docx">Скачать документ</a>
+<hr/>
+
+### 10 класс
+<a href="{{ site.url }}/download/rp/РП 10 кл.docx">Скачать документ</a>
+<hr/>
+
+### 11 класс
+<a href="{{ site.url }}/download/rp/РП 11 кл.docx">Скачать документ</a>

@@ -3,28 +3,28 @@
   side: left
 
 - title: Учителю
-  url: "/teacher/rp/"
+  url: "/teacher/rp"
   side: left
   dropdown:
   - title: "Рабочие программы"
-    url: "/teacher/rp/"
+    url: "/teacher/rp"
 
 - title: Ученикам
-  url: "/pupil/"
+  url: "/pupil"
   side: left
   dropdown:
   - title: "Как подготоваить домашнее задание"
-    url: "/pupil/howto/"
+    url: "/pupil/howto"
   - title: "Транслитерация"
     url: "/pupil/transliteration"
   - title: "Лексика по темам"
     url: "/pupil/lexis"
-  - title: "Словообозование"
-    url: "/pupil/"
+  - title: "Словообразование"
+    url: "/pupil/Word formation"
   - title: "Фразы для сочинений эссе"
-    url: "/pupil/фразы"
+    url: "/pupil/phrases"
 
-- title: Дизайн
+- title: D
   url: "/design/"
   side: left
   dropdown:
@@ -49,7 +49,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: Родителям
+- title: H
   url: "/headers/"
   side: left
   dropdown:
@@ -68,19 +68,19 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Методическая копилка
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+# - title: Методическая копилка
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"
 
-- title: Поиск
-  url: "/search/"
-  side: right
+# - title: Поиск
+#   url: "/search/"
+#   side: right
 
 - title: Контакты
-  url: "/contact/"
+  url: "/contact"
   side: right
