@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Английский для школьников'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'Сайт Клары Омановны'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by Alex Liavdny with <a href="http://phlow.de/">Phlow</a> and <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
@@ -27,7 +27,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -61,6 +61,8 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
+    - RunLocalhost.bat
+    - Localhost
 
 
 # The language setting is used in /includes/header.html for html-settings
