@@ -4,7 +4,7 @@ header:
     image: gallery-example-8.jpg
     #background-color:  "#FDE9C8"
     pattern:  "pattern_concrete.jpg"
-
+subheadline: "Главная страница"
 permalink: /index.html
 homepage: true
 ---
